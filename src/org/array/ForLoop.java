@@ -1,5 +1,7 @@
 package org.array;
 
+import java.util.Iterator;
+
 public class ForLoop {
 
 	public static void main(String[] args) {
@@ -24,7 +26,9 @@ public class ForLoop {
 	                     
 	for (int i : a) {
 		System.out.println(i);
-	}                     
+	}      
+	
+	System.out.println("sathya");
 	                    
 	                     
 	                     
